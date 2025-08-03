@@ -1,4 +1,7 @@
 Hey, this is my first file. 
-and this is my second commit.
+//removed a line
 i just ended up making a token.
 wow..i can finally push, commit and add now.
+
+
+adding a new line
