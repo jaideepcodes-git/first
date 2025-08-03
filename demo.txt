@@ -1,4 +1,4 @@
 Hey, this is my first file. 
-I am writing this code myself.
-and this is my third commit.
+and this is my second commit.
 i just ended up making a token.
+wow..i can finally push, commit and add now.
